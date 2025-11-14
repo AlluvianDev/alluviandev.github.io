@@ -1,0 +1,7 @@
+{
+  "name": "minecraft-query",
+  "version": "1.0.0",
+  "dependencies": {
+    "minecraft-status": "latest"
+  }
+}
